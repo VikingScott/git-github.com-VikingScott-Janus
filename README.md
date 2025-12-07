@@ -56,7 +56,3 @@ To ensure the dataset is "Quant-Ready," strict metadata governance will be appli
 * **Continuity:** No statistical breaks in the time series between the Greenbook era and the GDPNow era.
 * **Timeliness:** New regime signals are generated within 24 hours of major data releases.
 
-***
-
-### 下一步建议
-你可以直接把这个MD文件发给你的团队或保存到你的项目ReadMe中。接下来在R里的工作，就是去实现这个文档里 **2.1 Data Fusion** 部分提到的逻辑。
